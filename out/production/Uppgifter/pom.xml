@@ -1,5 +1,0 @@
-<dependency>
-    <groupId>dom4j</groupId>
-    <artifactId>dom4j</artifactId>
-    <version>2.1.4</version>
-</dependency>
