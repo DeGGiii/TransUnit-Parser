@@ -2,7 +2,7 @@
 The goal of this project is to parse the given XML file and write the target value of trans-unit with id 42007 to another file.
 ## Problem
 
-Get the value in the element **_target_** when the attribute **_id_** is 42007 and write it to another file.
+Get the value in the element **_target_** when the attribute **_id_** of trans-unit is 42007 and write it to another file.
 ```XML
 <?xml version="1.0" encoding="UTF-8"?>
 <root version="1.2">
